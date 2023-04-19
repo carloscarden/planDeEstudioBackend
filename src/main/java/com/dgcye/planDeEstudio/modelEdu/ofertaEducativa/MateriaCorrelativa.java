@@ -10,7 +10,7 @@ import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 import javax.validation.constraints.NotNull;
 
-import com.dgcye.SistemaTitulos.modelEDU.Materia;
+import com.dgcye.planDeEstudio.modelEdu.Materia;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

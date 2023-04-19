@@ -6,7 +6,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
-import com.dgcye.SistemaTitulos.dtos.ofertaEducativa.OfertaEducativaEdadXSeccionDTO;
+import com.dgcye.planDeEstudio.dtos.ofertaEducativa.OfertaEducativaEdadXSeccionDTO;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

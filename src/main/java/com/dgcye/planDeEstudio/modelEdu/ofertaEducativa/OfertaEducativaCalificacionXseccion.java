@@ -9,7 +9,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
-import com.dgcye.SistemaTitulos.dtos.ofertaEducativa.OfertaEducativaCalificacionXseccionDTO;
+import com.dgcye.planDeEstudio.dtos.ofertaEducativa.OfertaEducativaCalificacionXseccionDTO;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

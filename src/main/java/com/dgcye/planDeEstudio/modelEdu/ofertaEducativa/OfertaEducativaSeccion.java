@@ -14,7 +14,7 @@ import javax.validation.constraints.NotNull;
 
 import org.hibernate.annotations.ManyToAny;
 
-import com.dgcye.SistemaTitulos.dtos.ofertaEducativa.OfertaEducativaSeccionDTO;
+import com.dgcye.planDeEstudio.dtos.ofertaEducativa.OfertaEducativaSeccionDTO;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -9,6 +9,7 @@ import javax.persistence.Table;
 
 import javax.validation.constraints.NotNull;
 
+import com.dgcye.planDeEstudio.dtos.ofertaEducativa.MateriaDenominacionDTO;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
